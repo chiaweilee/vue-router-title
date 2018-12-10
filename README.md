@@ -1,5 +1,7 @@
 ## vue-router-title
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/vue-router-title.svg)](https://greenkeeper.io/)
+
 ### Install
 
 `npm install @chiaweilee/vue-router-title`
